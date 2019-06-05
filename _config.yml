@@ -31,6 +31,10 @@ projects:
     - contoso-chatbot
     - poa-relocation-report
     - flight-management-system
+    - dummy
+    - wireless-energy-monitor
+    - caching-performance
+    - concert-booking-web-service
 
 # social_media:
   # behance: your_username
@@ -51,14 +55,22 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: EcmaScript
-    web_url: https://github.com/topics/es6
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png
+  - name: Tensorflow
+    web_url: https://github.com/topics/tensorflow
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
 
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  - name: Go
-    web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/424902f9441eeb28663ad3f45e25398ac3445c79/topics/go/go.png
+  - name: Raspberry Pi
+    web_url: https://github.com/topics/raspberry-pi
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
+
+  - name: Vue.js
+    web_url: https://github.com/topics/vue
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png
+
+  - name: React Native
+    web_url: https://github.com/topics/react-native
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png
