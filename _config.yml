@@ -32,9 +32,6 @@ projects:
     - poa-relocation-report
     - flight-management-system
     - dummy
-    - wireless-energy-monitor
-    - caching-performance
-    - concert-booking-web-service
 
 # social_media:
   # behance: your_username
